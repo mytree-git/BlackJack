@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 17, 2015, 9:40:39 AM
+    Author     : mytree
+*/
+
+.button{
+    -fx-font-size: 15pt;
+    -fx-font-weight: bold;
+    -fx-text-fill: #F2F2F2;
+    -fx-background-color: #FE2E2E;
+}
+
+.label{
+    -fx-text-fill: #F2F2F2;
+    -fx-font-size: 18pt;
+    -fx-font-weight: bold;
+}
+
+.root{
+    -fx-background-color: #2B9209;
+}
+
+#title{
+    -fx-underline: true;
+    -fx-font-size: 25pt;
+    -fx-font-weight: bold;
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: linear-gradient(to right, black, red);
+}
+
